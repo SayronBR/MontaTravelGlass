@@ -6,4 +6,4 @@
 
 <h3  align="center"> this project is not finish in the momment <h3>
 
-<p align="center"><img width='400' height='600'url=(screen-capture.gif)></p>
+<p align="center"> <img src= https://github.com/SayronBR/MontaTravelGlass/blob/main/Glass/screen-capture.gif?raw=true> </p>
